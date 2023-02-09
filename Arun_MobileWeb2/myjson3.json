@@ -1,0 +1,17 @@
+[{
+    "name":"Sheridan College",
+    "details":"This is FAMOUS for computer science",
+    "course1":"Prob",
+    "course2":"calculus",
+    "course3":"Programming"
+}
+,
+{
+    "name":"India Nabian College",
+    "details":"This college offeres all business students",
+    "course1":"stats",
+    "course2":"Business Math",
+    "course3":"English"
+    
+}
+]

@@ -1,0 +1,57 @@
+[{
+    "name":"Ontario",
+    "details":"This is the most famous province, for futher description go to website",
+    "flg":"redjpg",
+    "cities":
+    {
+    "city1":"Toronto",
+     "city2":"Hamilton",
+      "city3":"Windsor"
+    }
+},
+{
+    "name":"Manitoba",
+    "details":"This is the second most famous province",
+    "flg":"bluejpg",
+    "cities":{
+        "city1":"Winnipeg",
+        "city2":"Flin",
+        "city3":"Flon"
+    }
+        
+},
+{
+    "name":"Alberta",
+    "details":"This is the Third most famous province",
+    "flg":"whitejpg",
+    "cities":{
+        "city1":"calgary",
+        "city2":"edm",
+        "city3":"Grande"
+    }
+        
+},
+{
+    "name":"Quebec",
+    "details":"This is the fourth famous province",
+    "flg":"greenjpg",
+    "cities":{
+        "city1":"hyd",
+        "city2":"khi",
+        "city3":"PNL"
+    }
+        
+},
+{
+    "name":"Nova Scotia",
+    "details":"This is the fifth famous province",
+    "flg":"skyjpg",
+    "cities":{
+        "city1":"Sydney",
+        "city2":"Amherst",
+        "city3":"GLasgow"
+    }
+        
+}
+]
+

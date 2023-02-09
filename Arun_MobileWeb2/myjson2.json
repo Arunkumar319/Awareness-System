@@ -1,0 +1,14 @@
+[{
+    "name":"",
+    "details":"This is the most famous City",
+    "latitude":"43.777",
+    "longitude":"79.55",
+    "cities":
+    {
+    "city1":"sheridan college",
+     "city2":"sh2 college",
+      "city3":"R1 College"
+    }
+}
+
+]
